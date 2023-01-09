@@ -1,0 +1,961 @@
+portraits = {
+		animemil1 = {texturefile = "gfx/models/portraits/anime/animemil1.dds"}
+		animemil2 = {texturefile = "gfx/models/portraits/anime/animemil2.dds"}
+		animemil3 = {texturefile = "gfx/models/portraits/anime/animemil3.png"}
+		animemil4 = {texturefile = "gfx/models/portraits/anime/animemil4.png"}
+		animemil5 = {texturefile = "gfx/models/portraits/anime/animemil5.png"}
+		animemil6 = {texturefile = "gfx/models/portraits/anime/animemil6.png"}
+
+		animewwgirls1 = {texturefile = "gfx/models/portraits/anime/animewwgirls1.png"}
+		animewwgirls2 = {texturefile = "gfx/models/portraits/anime/animewwgirls2.png"}
+		animewwgirls3 = {texturefile = "gfx/models/portraits/anime/animewwgirls3.png"}
+		animewwgirls4 = {texturefile = "gfx/models/portraits/anime/animewwgirls4.png"}
+		animewwgirls5 = {texturefile = "gfx/models/portraits/anime/animewwgirls5.png"}
+		animewwgirls6 = {texturefile = "gfx/models/portraits/anime/animewwgirls6.png"}
+		animewwgirls7 = {texturefile = "gfx/models/portraits/anime/animewwgirls7.png"}
+		animewwgirls8 = {texturefile = "gfx/models/portraits/anime/animewwgirls8.png"}
+
+		animemazi1 = {texturefile = "gfx/models/portraits/anime/animemazi1.dds"}
+		animemazi2 = {texturefile = "gfx/models/portraits/anime/animemazi2.dds"}
+		animemazi3 = {texturefile = "gfx/models/portraits/anime/animemazi3.dds"}
+		animemazi4 = {texturefile = "gfx/models/portraits/anime/animemazi4.png"}
+		animemazi5 = {texturefile = "gfx/models/portraits/anime/animemazi5.png"}
+		animemazi6 = {texturefile = "gfx/models/portraits/anime/animemazi6.png"}
+
+		Nanites1 = {texturefile = "gfx/models/portraits/anime/Nanites1.dds"}
+		Nanites2 = {texturefile = "gfx/models/portraits/anime/Nanites2.dds"}
+		Nanites3 = {texturefile = "gfx/models/portraits/anime/Nanites3.dds"}
+		Nanites4 = {texturefile = "gfx/models/portraits/anime/Nanites4.dds"}
+		Nanites5 = {texturefile = "gfx/models/portraits/anime/Nanites5.dds"}
+		Nanites6 = {texturefile = "gfx/models/portraits/anime/Nanites6.dds"}
+		Nanites7 = {texturefile = "gfx/models/portraits/anime/Nanites7.dds"}
+
+		mecha1 = {texturefile = "gfx/models/portraits/anime/mecha1.dds"}
+		mecha2 = {texturefile = "gfx/models/portraits/anime/mecha2.dds"}
+		mecha3 = {texturefile = "gfx/models/portraits/anime/mecha3.dds"}
+		mecha4 = {texturefile = "gfx/models/portraits/anime/mecha4.dds"}
+		mecha5 = {texturefile = "gfx/models/portraits/anime/mecha5.dds"}
+
+		neko1 = {texturefile = "gfx/models/portraits/anime/neko1.dds"}
+		neko2 = {texturefile = "gfx/models/portraits/anime/neko2.dds"}
+		neko3 = {texturefile = "gfx/models/portraits/anime/neko3.dds"}
+		neko4 = {texturefile = "gfx/models/portraits/anime/neko4.dds"}
+		neko5 = {texturefile = "gfx/models/portraits/anime/neko5.dds"}
+		neko6 = {texturefile = "gfx/models/portraits/anime/neko6.dds"}
+
+		rei1 = {texturefile = "gfx/models/portraits/anime/rei1.png"}
+		rei2 = {texturefile = "gfx/models/portraits/anime/rei2.png"}
+		rei3 = {texturefile = "gfx/models/portraits/anime/rei3.png"}
+		rei4 = {texturefile = "gfx/models/portraits/anime/rei4.png"}
+
+		bear1 = {texturefile = "gfx/models/portraits/anime/bear1.dds"}
+		bear2 = {texturefile = "gfx/models/portraits/anime/bear2.dds"}
+		bear3 = {texturefile = "gfx/models/portraits/anime/bear3.dds"}
+		bear4 = {texturefile = "gfx/models/portraits/anime/bear4.dds"}
+		bear5 = {texturefile = "gfx/models/portraits/anime/bear5.dds"}
+
+		shiba1 = {texturefile = "gfx/models/portraits/anime/shiba1.dds"}
+		shiba2 = {texturefile = "gfx/models/portraits/anime/shiba2.dds"}
+		shiba3 = {texturefile = "gfx/models/portraits/anime/shiba3.dds"}
+		shiba4 = {texturefile = "gfx/models/portraits/anime/shiba4.dds"}
+		shiba5 = {texturefile = "gfx/models/portraits/anime/shiba5.dds"}
+
+		floppa1 = {texturefile = "gfx/models/portraits/anime/floppa1.png"}
+		floppa2 = {texturefile = "gfx/models/portraits/anime/floppa2.png"}
+		floppa3 = {texturefile = "gfx/models/portraits/anime/floppa3.png"}
+		floppa4 = {texturefile = "gfx/models/portraits/anime/floppa4.png"}
+		floppa5 = {texturefile = "gfx/models/portraits/anime/floppa5.png"}
+		floppa6 = {texturefile = "gfx/models/portraits/anime/floppa6.png"}
+
+		Gachi1 = {texturefile = "gfx/models/portraits/anime/Gachi1.png"}
+		Gachi2 = {texturefile = "gfx/models/portraits/anime/Gachi2.png"}
+		Gachi3 = {texturefile = "gfx/models/portraits/anime/Gachi3.png"}
+		Gachi4 = {texturefile = "gfx/models/portraits/anime/Gachi4.png"}
+		Gachi5 = {texturefile = "gfx/models/portraits/anime/Gachi5.png"}
+
+		necroV1 = {texturefile = "gfx/models/portraits/anime/necroV1.png"}
+		necroV2 = {texturefile = "gfx/models/portraits/anime/necroV2.png"}
+		necroV3 = {texturefile = "gfx/models/portraits/anime/necroV3.png"}
+		necroV4 = {texturefile = "gfx/models/portraits/anime/necroV4.png"}
+		necroV5 = {texturefile = "gfx/models/portraits/anime/necroV5.png"}
+		necroV6 = {texturefile = "gfx/models/portraits/anime/necroV6.png"}
+
+		necro1 = {texturefile = "gfx/models/portraits/anime/necro1.png"}
+		necro2 = {texturefile = "gfx/models/portraits/anime/necro2.png"}
+		necro3 = {texturefile = "gfx/models/portraits/anime/necro3.png"}
+		necro4 = {texturefile = "gfx/models/portraits/anime/necro4.png"}
+		necro5 = {texturefile = "gfx/models/portraits/anime/necro5.png"}
+		necro6 = {texturefile = "gfx/models/portraits/anime/necro6.png"}
+
+		rock1 = {texturefile = "gfx/models/portraits/anime/rock1.png"}
+		rock2 = {texturefile = "gfx/models/portraits/anime/rock2.png"}
+		rock3 = {texturefile = "gfx/models/portraits/anime/rock3.png"}
+		rock4 = {texturefile = "gfx/models/portraits/anime/rock4.png"}
+		rock5 = {texturefile = "gfx/models/portraits/anime/rock5.png"}
+
+}
+
+portrait_groups = {
+	floppa = {
+		default = floppa3
+		game_setup = {
+			add = {
+				portraits = {
+					floppa1
+					floppa2
+					floppa3
+					floppa4
+					floppa5
+					floppa6
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					floppa1
+					floppa2
+					floppa3
+					floppa4
+					floppa5
+					floppa6
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					floppa1
+					floppa2
+					floppa3
+					floppa4
+					floppa5
+					floppa6
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					floppa1
+					floppa2
+					floppa3
+					floppa4
+					floppa5
+					floppa6
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					floppa1
+					floppa2
+					floppa3
+					floppa4
+					floppa5
+					floppa6
+				}
+			}
+		}
+	}
+	gachi = {
+		default = Gachi3
+		game_setup = {
+			add = {
+				portraits = {
+					Gachi1
+					Gachi2
+					Gachi3
+					Gachi4
+					Gachi5
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					Gachi1
+					Gachi2
+					Gachi3
+					Gachi4
+					Gachi5
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					Gachi1
+					Gachi2
+					Gachi3
+					Gachi4
+					Gachi5
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					Gachi1
+					Gachi2
+					Gachi3
+					Gachi4
+					Gachi5
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					Gachi1
+					Gachi2
+					Gachi3
+					Gachi4
+					Gachi5
+				}
+			}
+		}
+	}
+	bear = {
+		default = bear5
+		game_setup = {
+			add = {
+				portraits = {
+					bear1
+					bear2
+					bear3
+					bear4
+					bear5
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					bear1
+					bear2
+					bear3
+					bear4
+					bear5
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					bear1
+					bear2
+					bear3
+					bear4
+					bear5
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					bear1
+					bear2
+					bear3
+					bear4
+					bear5
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					bear1
+					bear2
+					bear3
+					bear4
+					bear5
+				}
+			}
+		}
+	}
+	shiba = {
+		default = shiba5
+		game_setup = {
+			add = {
+				portraits = {
+					shiba1
+					shiba2
+					shiba3
+					shiba4
+					shiba5
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					shiba1
+					shiba2
+					shiba3
+					shiba4
+					shiba5
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					shiba1
+					shiba2
+					shiba3
+					shiba4
+					shiba5
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					shiba1
+					shiba2
+					shiba3
+					shiba4
+					shiba5
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					shiba1
+					shiba2
+					shiba3
+					shiba4
+					shiba5
+				}
+			}
+		}
+	}
+	nanites = {
+		default = Nanites4
+		game_setup = {
+			add = {
+				portraits = {
+					Nanites1
+					Nanites2
+					Nanites3
+					Nanites4
+					Nanites5
+					Nanites6
+					Nanites7
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					Nanites1
+					Nanites2
+					Nanites3
+					Nanites4
+					Nanites5
+					Nanites6
+					Nanites7
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					Nanites1
+					Nanites2
+					Nanites3
+					Nanites4
+					Nanites5
+					Nanites6
+					Nanites7
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					Nanites1
+					Nanites2
+					Nanites3
+					Nanites4
+					Nanites5
+					Nanites6
+					Nanites7
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					Nanites1
+					Nanites2
+					Nanites3
+					Nanites4
+					Nanites5
+					Nanites6
+					Nanites7	
+				}
+			}
+		}
+	}
+	neko = {
+		default = neko3
+		game_setup = {
+			add = {
+				portraits = {
+					neko1
+					neko2
+					neko3
+					neko4
+					neko5
+					neko6
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					neko1
+					neko2
+					neko3
+					neko4
+					neko5
+					neko6
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					neko1
+					neko2
+					neko3
+					neko4
+					neko5
+					neko6
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					neko1
+					neko2
+					neko3
+					neko4
+					neko5
+					neko6
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					neko1
+					neko2
+					neko3
+					neko4
+					neko5
+					neko6
+				}
+			}
+		}
+	}
+	anime_military = {
+		default = animemil4
+		game_setup = {
+			add = {
+				portraits = {
+					animemil1
+					animemil2
+					animemil3
+					animemil4
+					animemil5
+					animemil6
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					animemil1
+					animemil2
+					animemil3
+					animemil4
+					animemil5
+					animemil6
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					animemil1
+					animemil2
+					animemil3
+					animemil4
+					animemil5
+					animemil6
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					animemil1
+					animemil2
+					animemil3
+					animemil4
+					animemil5
+					animemil6
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					animemil1
+					animemil2
+					animemil3
+					animemil4
+					animemil5
+					animemil6
+				}
+			}
+		}
+	}
+	anime_nazi = {
+		default = animemazi4
+		game_setup = {
+			add = {
+				portraits = {
+					animemazi1
+					animemazi2
+					animemazi3
+					animemazi4
+					animemazi5
+					animemazi6
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					animemazi1
+					animemazi2
+					animemazi3
+					animemazi4
+					animemazi5
+					animemazi6
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					animemazi1
+					animemazi2
+					animemazi3
+					animemazi4
+					animemazi5
+					animemazi6
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					animemazi1
+					animemazi2
+					animemazi3
+					animemazi4
+					animemazi5
+					animemazi6
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					animemazi1
+					animemazi2
+					animemazi3
+					animemazi4
+					animemazi5
+					animemazi6
+				}
+			}
+		}
+	}
+	anime_ww_girls = {
+		default = animewwgirls5
+		game_setup = {
+			add = {
+				portraits = {
+					animewwgirls1
+					animewwgirls2
+					animewwgirls3
+					animewwgirls4
+					animewwgirls5
+					animewwgirls6
+					animewwgirls7
+					animewwgirls8
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					animewwgirls1
+					animewwgirls2
+					animewwgirls3
+					animewwgirls4
+					animewwgirls5
+					animewwgirls6
+					animewwgirls7
+					animewwgirls8
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					animewwgirls1
+					animewwgirls2
+					animewwgirls3
+					animewwgirls4
+					animewwgirls5
+					animewwgirls6
+					animewwgirls7
+					animewwgirls8
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					animewwgirls1
+					animewwgirls2
+					animewwgirls3
+					animewwgirls4
+					animewwgirls5
+					animewwgirls6
+					animewwgirls7
+					animewwgirls8
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					animewwgirls1
+					animewwgirls2
+					animewwgirls3
+					animewwgirls4
+					animewwgirls5
+					animewwgirls6
+					animewwgirls7
+					animewwgirls8
+				}
+			}
+		}
+	}
+	rei = {
+		default = rei3
+		game_setup = {
+			add = {
+				portraits = {
+					rei1
+					rei2
+					rei3
+					rei4
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					rei1
+					rei2
+					rei3
+					rei4
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					rei1
+					rei2
+					rei3
+					rei4
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					rei1
+					rei2
+					rei3
+					rei4
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					rei1
+					rei2
+					rei3
+					rei4
+				}
+			}
+		}
+	}
+	mecha = {
+		default = mecha5
+		game_setup = {
+			add = {
+				portraits = {
+					mecha1
+					mecha2
+					mecha3
+					mecha4
+					mecha5
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					mecha1
+					mecha2
+					mecha3
+					mecha4
+					mecha5
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					mecha1
+					mecha2
+					mecha3
+					mecha4
+					mecha5
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					mecha1
+					mecha2
+					mecha3
+					mecha4
+					mecha5
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					mecha1
+					mecha2
+					mecha3
+					mecha4
+					mecha5
+				}
+			}
+		}
+	}
+	necroV = {
+		default = necroV5
+		game_setup = {
+			add = {
+				portraits = {
+					necroV1
+					necroV2
+					necroV3
+					necroV4
+					necroV5
+					necroV6
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					necroV1
+					necroV2
+					necroV3
+					necroV4
+					necroV5
+					necroV6
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					necroV1
+					necroV2
+					necroV3
+					necroV4
+					necroV5
+					necroV6
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					necroV1
+					necroV2
+					necroV3
+					necroV4
+					necroV5
+					necroV6
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					necroV1
+					necroV2
+					necroV3
+					necroV4
+					necroV5
+					necroV6
+				}
+			}
+		}
+	}
+		necro = {
+		default = necro5
+		game_setup = {
+			add = {
+				portraits = {
+					necro1
+					necro2
+					necro3
+					necro4
+					necro5
+					necro6
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					necro1
+					necro2
+					necro3
+					necro4
+					necro5
+					necro6
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					necro1
+					necro2
+					necro3
+					necro4
+					necro5
+					necro6
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					necro1
+					necro2
+					necro3
+					necro4
+					necro5
+					necro6
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					necro1
+					necro2
+					necro3
+					necro4
+					necro5
+					necro6
+				}
+			}
+		}
+	}
+	rock = {
+		default = rock1
+		game_setup = {
+			add = {
+				portraits = {
+					rock1
+					rock2
+					rock3
+					rock4
+					rock5
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					rock1
+					rock2
+					rock3
+					rock4
+					rock5
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					rock1
+					rock2
+					rock3
+					rock4
+					rock5
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					rock1
+					rock2
+					rock3
+					rock4
+					rock5
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					rock1
+					rock2
+					rock3
+					rock4
+					rock5
+				}
+			}
+		}
+	}
+}

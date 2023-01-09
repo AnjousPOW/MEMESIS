@@ -1,0 +1,78 @@
+ROBOT = {
+	archetype = ROBOT
+
+	playable = { has_global_flag = game_started }
+	randomized = no
+	gender = no
+	use_climate_preference = no
+	portrait_modding = yes
+
+	leader_age_min = 1
+	leader_age_max = 2
+
+	custom_portraits = {
+		randomized = { host_has_dlc = "Synthetic Dawn Story Pack" }
+		playable = { host_has_dlc = "Synthetic Dawn Story Pack" }
+		portraits = {
+			"sd_hum_robot"
+			"sd_mam_robot"
+			"sd_rep_robot"
+			"sd_avi_robot"
+			"sd_art_robot"
+			"sd_mol_robot"
+			"sd_fun_robot"
+			"sd_pla_robot"
+		}
+	}
+
+	custom_portraits = {
+		randomized = { has_lithoids = yes }
+		playable = { has_lithoids = yes }
+		portraits = {
+			"lith_machine"
+		}
+	}
+
+	custom_portraits = {
+		randomized = { has_necroids = yes }
+		playable = { has_necroids = yes }
+		portraits = {
+			"nec_machine"
+		}
+	}
+
+	custom_portraits = {
+		randomized = { has_aquatics = yes }
+		playable = { has_aquatics = yes }
+		portraits = {
+			"aqu_machine"
+		}
+	}
+
+	custom_portraits = { # use custom_portraits instead of portraits so we can put them after the custom_portraits above
+		randomized = { always = yes }
+		playable = { always = yes }
+		portraits = {
+			"default_robot"
+			"mecha"
+			"ai_robot_hum"
+			"ai_robot_mam"
+			"ai_robot_rep"
+			"ai_robot_avi"
+			"ai_robot_art"
+			"ai_robot_mol"
+			"ai_robot_fun"
+			"ai_robot_pla"
+			"ai_robot_lith"
+			"ai_robot_nec"
+			"ai_robot_aqu"
+			"ai_robot_tox"
+			"ai_robot_default"
+		}
+	}
+
+	graphical_culture = ai_01
+	move_pop_sound_effect = "robot_pops_move"
+
+	resources = {}
+}

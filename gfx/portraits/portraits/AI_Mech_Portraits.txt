@@ -1,0 +1,1238 @@
+portraits = {
+	AI_hum1 = { texturefile = "gfx/models/portraits/anime/RobotAI/hum1.dds" }
+	AI_hum2 = { texturefile = "gfx/models/portraits/anime/RobotAI/hum2.dds" }
+	AI_hum3 = { texturefile = "gfx/models/portraits/anime/RobotAI/hum3.dds" }
+	AI_hum4 = { texturefile = "gfx/models/portraits/anime/RobotAI/hum4.dds" }
+	AI_hum5 = { texturefile = "gfx/models/portraits/anime/RobotAI/hum5.dds" }
+	AI_hum6 = { texturefile = "gfx/models/portraits/anime/RobotAI/hum6.dds" }
+	AI_hum7 = { texturefile = "gfx/models/portraits/anime/RobotAI/hum7.dds" }
+	AI_hum8 = { texturefile = "gfx/models/portraits/anime/RobotAI/hum8.dds" }
+	AI_hum9 = { texturefile = "gfx/models/portraits/anime/RobotAI/hum9.dds" }
+	AI_hum10 = { texturefile = "gfx/models/portraits/anime/RobotAI/hum10.dds" }
+	
+	AI_mam1 = { texturefile = "gfx/models/portraits/anime/RobotAI/mam1.dds" }
+	AI_mam2 = { texturefile = "gfx/models/portraits/anime/RobotAI/mam2.dds" }
+	AI_mam3 = { texturefile = "gfx/models/portraits/anime/RobotAI/mam3.dds" }
+	AI_mam4 = { texturefile = "gfx/models/portraits/anime/RobotAI/mam4.dds" }
+	AI_mam5 = { texturefile = "gfx/models/portraits/anime/RobotAI/mam5.dds" }
+	AI_mam6 = { texturefile = "gfx/models/portraits/anime/RobotAI/mam6.dds" }
+	AI_mam7 = { texturefile = "gfx/models/portraits/anime/RobotAI/mam7.dds" }
+	AI_mam8 = { texturefile = "gfx/models/portraits/anime/RobotAI/mam8.dds" }
+	AI_mam9 = { texturefile = "gfx/models/portraits/anime/RobotAI/mam9.dds" }
+	AI_mam10 = { texturefile = "gfx/models/portraits/anime/RobotAI/mam10.dds" }
+
+	AI_rep1 = { texturefile = "gfx/models/portraits/anime/RobotAI/rep1.dds" }
+	AI_rep2 = { texturefile = "gfx/models/portraits/anime/RobotAI/rep2.dds" }
+	AI_rep3 = { texturefile = "gfx/models/portraits/anime/RobotAI/rep3.dds" }
+	AI_rep4 = { texturefile = "gfx/models/portraits/anime/RobotAI/rep4.dds" }
+	AI_rep5 = { texturefile = "gfx/models/portraits/anime/RobotAI/rep5.dds" }
+	AI_rep6 = { texturefile = "gfx/models/portraits/anime/RobotAI/rep6.dds" }
+	AI_rep7 = { texturefile = "gfx/models/portraits/anime/RobotAI/rep7.dds" }
+	AI_rep8 = { texturefile = "gfx/models/portraits/anime/RobotAI/rep8.dds" }
+	AI_rep9 = { texturefile = "gfx/models/portraits/anime/RobotAI/rep9.dds" }
+	AI_rep10 = { texturefile = "gfx/models/portraits/anime/RobotAI/rep10.dds" }
+
+	AI_avi1 = { texturefile = "gfx/models/portraits/anime/RobotAI/avi1.dds" }
+	AI_avi2 = { texturefile = "gfx/models/portraits/anime/RobotAI/avi2.dds" }
+	AI_avi3 = { texturefile = "gfx/models/portraits/anime/RobotAI/avi3.dds" }
+	AI_avi4 = { texturefile = "gfx/models/portraits/anime/RobotAI/avi4.dds" }
+	AI_avi5 = { texturefile = "gfx/models/portraits/anime/RobotAI/avi5.dds" }
+	AI_avi6 = { texturefile = "gfx/models/portraits/anime/RobotAI/avi6.dds" }
+	AI_avi7 = { texturefile = "gfx/models/portraits/anime/RobotAI/avi7.dds" }
+	AI_avi8 = { texturefile = "gfx/models/portraits/anime/RobotAI/avi8.dds" }
+	AI_avi9 = { texturefile = "gfx/models/portraits/anime/RobotAI/avi9.dds" }
+	AI_avi10 = { texturefile = "gfx/models/portraits/anime/RobotAI/avi10.dds" }
+
+	AI_art1 = { texturefile = "gfx/models/portraits/anime/RobotAI/art1.dds" }
+	AI_art2 = { texturefile = "gfx/models/portraits/anime/RobotAI/art2.dds" }
+	AI_art3 = { texturefile = "gfx/models/portraits/anime/RobotAI/art3.dds" }
+	AI_art4 = { texturefile = "gfx/models/portraits/anime/RobotAI/art4.dds" }
+	AI_art5 = { texturefile = "gfx/models/portraits/anime/RobotAI/art5.dds" }
+	AI_art6 = { texturefile = "gfx/models/portraits/anime/RobotAI/art6.dds" }
+	AI_art7 = { texturefile = "gfx/models/portraits/anime/RobotAI/art7.dds" }
+	AI_art8 = { texturefile = "gfx/models/portraits/anime/RobotAI/art8.dds" }
+	AI_art9 = { texturefile = "gfx/models/portraits/anime/RobotAI/art9.dds" }
+	AI_art10 = { texturefile = "gfx/models/portraits/anime/RobotAI/art10.dds" }
+
+	AI_mol1 = { texturefile = "gfx/models/portraits/anime/RobotAI/mol1.dds" }
+	AI_mol2 = { texturefile = "gfx/models/portraits/anime/RobotAI/mol2.dds" }
+	AI_mol3 = { texturefile = "gfx/models/portraits/anime/RobotAI/mol3.dds" }
+	AI_mol4 = { texturefile = "gfx/models/portraits/anime/RobotAI/mol4.dds" }
+	AI_mol5 = { texturefile = "gfx/models/portraits/anime/RobotAI/mol5.dds" }
+	AI_mol6 = { texturefile = "gfx/models/portraits/anime/RobotAI/mol6.dds" }
+	AI_mol7 = { texturefile = "gfx/models/portraits/anime/RobotAI/mol7.dds" }
+	AI_mol8 = { texturefile = "gfx/models/portraits/anime/RobotAI/mol8.dds" }
+	AI_mol9 = { texturefile = "gfx/models/portraits/anime/RobotAI/mol9.dds" }
+	AI_mol10 = { texturefile = "gfx/models/portraits/anime/RobotAI/mol10.dds" }
+
+	AI_fun1 = { texturefile = "gfx/models/portraits/anime/RobotAI/fun1.dds" }
+	AI_fun2 = { texturefile = "gfx/models/portraits/anime/RobotAI/fun2.dds" }
+	AI_fun3 = { texturefile = "gfx/models/portraits/anime/RobotAI/fun3.dds" }
+	AI_fun4 = { texturefile = "gfx/models/portraits/anime/RobotAI/fun4.dds" }
+	AI_fun5 = { texturefile = "gfx/models/portraits/anime/RobotAI/fun5.dds" }
+	AI_fun6 = { texturefile = "gfx/models/portraits/anime/RobotAI/fun6.dds" }
+	AI_fun7 = { texturefile = "gfx/models/portraits/anime/RobotAI/fun7.dds" }
+	AI_fun8 = { texturefile = "gfx/models/portraits/anime/RobotAI/fun8.dds" }
+	AI_fun9 = { texturefile = "gfx/models/portraits/anime/RobotAI/fun9.dds" }
+	AI_fun10 = { texturefile = "gfx/models/portraits/anime/RobotAI/fun10.dds" }
+
+	AI_pla1 = { texturefile = "gfx/models/portraits/anime/RobotAI/pla1.dds" }
+	AI_pla2 = { texturefile = "gfx/models/portraits/anime/RobotAI/pla2.dds" }
+	AI_pla3 = { texturefile = "gfx/models/portraits/anime/RobotAI/pla3.dds" }
+	AI_pla4 = { texturefile = "gfx/models/portraits/anime/RobotAI/pla4.dds" }
+	AI_pla5 = { texturefile = "gfx/models/portraits/anime/RobotAI/pla5.dds" }
+	AI_pla6 = { texturefile = "gfx/models/portraits/anime/RobotAI/pla6.dds" }
+	AI_pla7 = { texturefile = "gfx/models/portraits/anime/RobotAI/pla7.dds" }
+	AI_pla8 = { texturefile = "gfx/models/portraits/anime/RobotAI/pla8.dds" }
+	AI_pla9 = { texturefile = "gfx/models/portraits/anime/RobotAI/pla9.dds" }
+	AI_pla10 = { texturefile = "gfx/models/portraits/anime/RobotAI/pla10.dds" }
+
+	AI_lith1 = { texturefile = "gfx/models/portraits/anime/RobotAI/lith1.dds" }
+	AI_lith2 = { texturefile = "gfx/models/portraits/anime/RobotAI/lith2.dds" }
+	AI_lith3 = { texturefile = "gfx/models/portraits/anime/RobotAI/lith3.dds" }
+	AI_lith4 = { texturefile = "gfx/models/portraits/anime/RobotAI/lith4.dds" }
+	AI_lith5 = { texturefile = "gfx/models/portraits/anime/RobotAI/lith5.dds" }
+	AI_lith6 = { texturefile = "gfx/models/portraits/anime/RobotAI/lith6.dds" }
+	AI_lith7 = { texturefile = "gfx/models/portraits/anime/RobotAI/lith7.dds" }
+	AI_lith8 = { texturefile = "gfx/models/portraits/anime/RobotAI/lith8.dds" }
+	AI_lith9 = { texturefile = "gfx/models/portraits/anime/RobotAI/lith9.dds" }
+	AI_lith10 = { texturefile = "gfx/models/portraits/anime/RobotAI/lith10.dds" }
+
+	AI_nec1 = { texturefile = "gfx/models/portraits/anime/RobotAI/nec1.dds" }
+	AI_nec2 = { texturefile = "gfx/models/portraits/anime/RobotAI/nec2.dds" }
+	AI_nec3 = { texturefile = "gfx/models/portraits/anime/RobotAI/nec3.dds" }
+	AI_nec4 = { texturefile = "gfx/models/portraits/anime/RobotAI/nec4.dds" }
+	AI_nec5 = { texturefile = "gfx/models/portraits/anime/RobotAI/nec5.dds" }
+	AI_nec6 = { texturefile = "gfx/models/portraits/anime/RobotAI/nec6.dds" }
+	AI_nec7 = { texturefile = "gfx/models/portraits/anime/RobotAI/nec7.dds" }
+	AI_nec8 = { texturefile = "gfx/models/portraits/anime/RobotAI/nec8.dds" }
+	AI_nec9 = { texturefile = "gfx/models/portraits/anime/RobotAI/nec9.dds" }
+	AI_nec10 = { texturefile = "gfx/models/portraits/anime/RobotAI/nec10.dds" }
+
+	AI_aqu1 = { texturefile = "gfx/models/portraits/anime/RobotAI/aqu1.dds" }
+	AI_aqu2 = { texturefile = "gfx/models/portraits/anime/RobotAI/aqu2.dds" }
+	AI_aqu3 = { texturefile = "gfx/models/portraits/anime/RobotAI/aqu3.dds" }
+	AI_aqu4 = { texturefile = "gfx/models/portraits/anime/RobotAI/aqu4.dds" }
+	AI_aqu5 = { texturefile = "gfx/models/portraits/anime/RobotAI/aqu5.dds" }
+	AI_aqu6 = { texturefile = "gfx/models/portraits/anime/RobotAI/aqu6.dds" }
+	AI_aqu7 = { texturefile = "gfx/models/portraits/anime/RobotAI/aqu7.dds" }
+	AI_aqu8 = { texturefile = "gfx/models/portraits/anime/RobotAI/aqu8.dds" }
+	AI_aqu9 = { texturefile = "gfx/models/portraits/anime/RobotAI/aqu9.dds" }
+	AI_aqu10 = { texturefile = "gfx/models/portraits/anime/RobotAI/aqu10.dds" }
+
+	AI_tox1 = { texturefile = "gfx/models/portraits/anime/RobotAI/tox1.dds" }
+	AI_tox2 = { texturefile = "gfx/models/portraits/anime/RobotAI/tox2.dds" }
+	AI_tox3 = { texturefile = "gfx/models/portraits/anime/RobotAI/tox3.dds" }
+	AI_tox4 = { texturefile = "gfx/models/portraits/anime/RobotAI/tox4.dds" }
+	AI_tox5 = { texturefile = "gfx/models/portraits/anime/RobotAI/tox5.dds" }
+	AI_tox6 = { texturefile = "gfx/models/portraits/anime/RobotAI/tox6.dds" }
+	AI_tox7 = { texturefile = "gfx/models/portraits/anime/RobotAI/tox7.dds" }
+	AI_tox8 = { texturefile = "gfx/models/portraits/anime/RobotAI/tox8.dds" }
+	AI_tox9 = { texturefile = "gfx/models/portraits/anime/RobotAI/tox9.dds" }
+	AI_tox10 = { texturefile = "gfx/models/portraits/anime/RobotAI/tox10.dds" }
+
+	AI_default1 = { texturefile = "gfx/models/portraits/anime/RobotAI/default1.dds" }
+	AI_default2 = { texturefile = "gfx/models/portraits/anime/RobotAI/default2.dds" }
+	AI_default3 = { texturefile = "gfx/models/portraits/anime/RobotAI/default3.dds" }
+	AI_default4 = { texturefile = "gfx/models/portraits/anime/RobotAI/default4.dds" }
+	AI_default5 = { texturefile = "gfx/models/portraits/anime/RobotAI/default5.dds" }
+	AI_default6 = { texturefile = "gfx/models/portraits/anime/RobotAI/default6.dds" }
+	AI_default7 = { texturefile = "gfx/models/portraits/anime/RobotAI/default7.dds" }
+	AI_default8 = { texturefile = "gfx/models/portraits/anime/RobotAI/default8.dds" }
+	AI_default9 = { texturefile = "gfx/models/portraits/anime/RobotAI/default9.dds" }
+	AI_default10 = { texturefile = "gfx/models/portraits/anime/RobotAI/default10.dds" }
+}
+
+portrait_groups = {
+	"ai_robot_hum" = {
+		default = AI_hum1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_hum1
+					AI_hum2
+					AI_hum3
+					AI_hum4
+					AI_hum5
+					AI_hum6
+					AI_hum7
+					AI_hum8
+					AI_hum9
+					AI_hum10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_hum1
+					AI_hum2
+					AI_hum3
+					AI_hum4
+					AI_hum5
+					AI_hum6
+					AI_hum7
+					AI_hum8
+					AI_hum9
+					AI_hum10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_hum1
+					AI_hum2
+					AI_hum3
+					AI_hum4
+					AI_hum5
+					AI_hum6
+					AI_hum7
+					AI_hum8
+					AI_hum9
+					AI_hum10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_hum1
+					AI_hum2
+					AI_hum3
+					AI_hum4
+					AI_hum5
+					AI_hum6
+					AI_hum7
+					AI_hum8
+					AI_hum9
+					AI_hum10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_hum1
+					AI_hum2
+					AI_hum3
+					AI_hum4
+					AI_hum5
+					AI_hum6
+					AI_hum7
+					AI_hum8
+					AI_hum9
+					AI_hum10
+				}
+			}
+		}
+	}
+
+	"ai_robot_mam" = {
+		default = AI_mam1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_mam1
+					AI_mam2
+					AI_mam3
+					AI_mam4
+					AI_mam5
+					AI_mam6
+					AI_mam7
+					AI_mam8
+					AI_mam9
+					AI_mam10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_mam1
+					AI_mam2
+					AI_mam3
+					AI_mam4
+					AI_mam5
+					AI_mam6
+					AI_mam7
+					AI_mam8
+					AI_mam9
+					AI_mam10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_mam1
+					AI_mam2
+					AI_mam3
+					AI_mam4
+					AI_mam5
+					AI_mam6
+					AI_mam7
+					AI_mam8
+					AI_mam9
+					AI_mam10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_mam1
+					AI_mam2
+					AI_mam3
+					AI_mam4
+					AI_mam5
+					AI_mam6
+					AI_mam7
+					AI_mam8
+					AI_mam9
+					AI_mam10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_mam1
+					AI_mam2
+					AI_mam3
+					AI_mam4
+					AI_mam5
+					AI_mam6
+					AI_mam7
+					AI_mam8
+					AI_mam9
+					AI_mam10
+				}
+			}
+		}
+	}
+
+	"ai_robot_rep" = {
+		default = AI_rep1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_rep1
+					AI_rep2
+					AI_rep3
+					AI_rep4
+					AI_rep5
+					AI_rep6
+					AI_rep7
+					AI_rep8
+					AI_rep9
+					AI_rep10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_rep1
+					AI_rep2
+					AI_rep3
+					AI_rep4
+					AI_rep5
+					AI_rep6
+					AI_rep7
+					AI_rep8
+					AI_rep9
+					AI_rep10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_rep1
+					AI_rep2
+					AI_rep3
+					AI_rep4
+					AI_rep5
+					AI_rep6
+					AI_rep7
+					AI_rep8
+					AI_rep9
+					AI_rep10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_rep1
+					AI_rep2
+					AI_rep3
+					AI_rep4
+					AI_rep5
+					AI_rep6
+					AI_rep7
+					AI_rep8
+					AI_rep9
+					AI_rep10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_rep1
+					AI_rep2
+					AI_rep3
+					AI_rep4
+					AI_rep5
+					AI_rep6
+					AI_rep7
+					AI_rep8
+					AI_rep9
+					AI_rep10
+				}
+			}
+		}
+	}
+
+	"ai_robot_avi" = {
+		default = AI_avi1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_avi1
+					AI_avi2
+					AI_avi3
+					AI_avi4
+					AI_avi5
+					AI_avi6
+					AI_avi7
+					AI_avi8
+					AI_avi9
+					AI_avi10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_avi1
+					AI_avi2
+					AI_avi3
+					AI_avi4
+					AI_avi5
+					AI_avi6
+					AI_avi7
+					AI_avi8
+					AI_avi9
+					AI_avi10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_avi1
+					AI_avi2
+					AI_avi3
+					AI_avi4
+					AI_avi5
+					AI_avi6
+					AI_avi7
+					AI_avi8
+					AI_avi9
+					AI_avi10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_avi1
+					AI_avi2
+					AI_avi3
+					AI_avi4
+					AI_avi5
+					AI_avi6
+					AI_avi7
+					AI_avi8
+					AI_avi9
+					AI_avi10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_avi1
+					AI_avi2
+					AI_avi3
+					AI_avi4
+					AI_avi5
+					AI_avi6
+					AI_avi7
+					AI_avi8
+					AI_avi9
+					AI_avi10
+				}
+			}
+		}
+	}
+
+	"ai_robot_art" = {
+		default = AI_art1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_art1
+					AI_art2
+					AI_art3
+					AI_art4
+					AI_art5
+					AI_art6
+					AI_art7
+					AI_art8
+					AI_art9
+					AI_art10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_art1
+					AI_art2
+					AI_art3
+					AI_art4
+					AI_art5
+					AI_art6
+					AI_art7
+					AI_art8
+					AI_art9
+					AI_art10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_art1
+					AI_art2
+					AI_art3
+					AI_art4
+					AI_art5
+					AI_art6
+					AI_art7
+					AI_art8
+					AI_art9
+					AI_art10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_art1
+					AI_art2
+					AI_art3
+					AI_art4
+					AI_art5
+					AI_art6
+					AI_art7
+					AI_art8
+					AI_art9
+					AI_art10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_art1
+					AI_art2
+					AI_art3
+					AI_art4
+					AI_art5
+					AI_art6
+					AI_art7
+					AI_art8
+					AI_art9
+					AI_art10
+				}
+			}
+		}
+	}
+
+	"ai_robot_mol" = {
+		default = AI_mol1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_mol1
+					AI_mol2
+					AI_mol3
+					AI_mol4
+					AI_mol5
+					AI_mol6
+					AI_mol7
+					AI_mol8
+					AI_mol9
+					AI_mol10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_mol1
+					AI_mol2
+					AI_mol3
+					AI_mol4
+					AI_mol5
+					AI_mol6
+					AI_mol7
+					AI_mol8
+					AI_mol9
+					AI_mol10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_mol1
+					AI_mol2
+					AI_mol3
+					AI_mol4
+					AI_mol5
+					AI_mol6
+					AI_mol7
+					AI_mol8
+					AI_mol9
+					AI_mol10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_mol1
+					AI_mol2
+					AI_mol3
+					AI_mol4
+					AI_mol5
+					AI_mol6
+					AI_mol7
+					AI_mol8
+					AI_mol9
+					AI_mol10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_mol1
+					AI_mol2
+					AI_mol3
+					AI_mol4
+					AI_mol5
+					AI_mol6
+					AI_mol7
+					AI_mol8
+					AI_mol9
+					AI_mol10
+				}
+			}
+		}
+	}
+
+	"ai_robot_fun" = {
+		default = AI_fun1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_fun1
+					AI_fun2
+					AI_fun3
+					AI_fun4
+					AI_fun5
+					AI_fun6
+					AI_fun7
+					AI_fun8
+					AI_fun9
+					AI_fun10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_fun1
+					AI_fun2
+					AI_fun3
+					AI_fun4
+					AI_fun5
+					AI_fun6
+					AI_fun7
+					AI_fun8
+					AI_fun9
+					AI_fun10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_fun1
+					AI_fun2
+					AI_fun3
+					AI_fun4
+					AI_fun5
+					AI_fun6
+					AI_fun7
+					AI_fun8
+					AI_fun9
+					AI_fun10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_fun1
+					AI_fun2
+					AI_fun3
+					AI_fun4
+					AI_fun5
+					AI_fun6
+					AI_fun7
+					AI_fun8
+					AI_fun9
+					AI_fun10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_fun1
+					AI_fun2
+					AI_fun3
+					AI_fun4
+					AI_fun5
+					AI_fun6
+					AI_fun7
+					AI_fun8
+					AI_fun9
+					AI_fun10
+				}
+			}
+		}
+	}
+
+	"ai_robot_pla" = {
+		default = AI_pla1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_pla1
+					AI_pla2
+					AI_pla3
+					AI_pla4
+					AI_pla5
+					AI_pla6
+					AI_pla7
+					AI_pla8
+					AI_pla9
+					AI_pla10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_pla1
+					AI_pla2
+					AI_pla3
+					AI_pla4
+					AI_pla5
+					AI_pla6
+					AI_pla7
+					AI_pla8
+					AI_pla9
+					AI_pla10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_pla1
+					AI_pla2
+					AI_pla3
+					AI_pla4
+					AI_pla5
+					AI_pla6
+					AI_pla7
+					AI_pla8
+					AI_pla9
+					AI_pla10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_pla1
+					AI_pla2
+					AI_pla3
+					AI_pla4
+					AI_pla5
+					AI_pla6
+					AI_pla7
+					AI_pla8
+					AI_pla9
+					AI_pla10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_pla1
+					AI_pla2
+					AI_pla3
+					AI_pla4
+					AI_pla5
+					AI_pla6
+					AI_pla7
+					AI_pla8
+					AI_pla9
+					AI_pla10
+				}
+			}
+		}
+	}
+
+	"ai_robot_lith" = {
+		default = AI_lith1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_lith1
+					AI_lith2
+					AI_lith3
+					AI_lith4
+					AI_lith5
+					AI_lith6
+					AI_lith7
+					AI_lith8
+					AI_lith9
+					AI_lith10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_lith1
+					AI_lith2
+					AI_lith3
+					AI_lith4
+					AI_lith5
+					AI_lith6
+					AI_lith7
+					AI_lith8
+					AI_lith9
+					AI_lith10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_lith1
+					AI_lith2
+					AI_lith3
+					AI_lith4
+					AI_lith5
+					AI_lith6
+					AI_lith7
+					AI_lith8
+					AI_lith9
+					AI_lith10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_lith1
+					AI_lith2
+					AI_lith3
+					AI_lith4
+					AI_lith5
+					AI_lith6
+					AI_lith7
+					AI_lith8
+					AI_lith9
+					AI_lith10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_lith1
+					AI_lith2
+					AI_lith3
+					AI_lith4
+					AI_lith5
+					AI_lith6
+					AI_lith7
+					AI_lith8
+					AI_lith9
+					AI_lith10
+				}
+			}
+		}
+	}
+
+	"ai_robot_nec" = {
+		default = AI_nec1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_nec1
+					AI_nec2
+					AI_nec3
+					AI_nec4
+					AI_nec5
+					AI_nec6
+					AI_nec7
+					AI_nec8
+					AI_nec9
+					AI_nec10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_nec1
+					AI_nec2
+					AI_nec3
+					AI_nec4
+					AI_nec5
+					AI_nec6
+					AI_nec7
+					AI_nec8
+					AI_nec9
+					AI_nec10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_nec1
+					AI_nec2
+					AI_nec3
+					AI_nec4
+					AI_nec5
+					AI_nec6
+					AI_nec7
+					AI_nec8
+					AI_nec9
+					AI_nec10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_nec1
+					AI_nec2
+					AI_nec3
+					AI_nec4
+					AI_nec5
+					AI_nec6
+					AI_nec7
+					AI_nec8
+					AI_nec9
+					AI_nec10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_nec1
+					AI_nec2
+					AI_nec3
+					AI_nec4
+					AI_nec5
+					AI_nec6
+					AI_nec7
+					AI_nec8
+					AI_nec9
+					AI_nec10
+				}
+			}
+		}
+	}
+
+	"ai_robot_aqu" = {
+		default = AI_aqu1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_aqu1
+					AI_aqu2
+					AI_aqu3
+					AI_aqu4
+					AI_aqu5
+					AI_aqu6
+					AI_aqu7
+					AI_aqu8
+					AI_aqu9
+					AI_aqu10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_aqu1
+					AI_aqu2
+					AI_aqu3
+					AI_aqu4
+					AI_aqu5
+					AI_aqu6
+					AI_aqu7
+					AI_aqu8
+					AI_aqu9
+					AI_aqu10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_aqu1
+					AI_aqu2
+					AI_aqu3
+					AI_aqu4
+					AI_aqu5
+					AI_aqu6
+					AI_aqu7
+					AI_aqu8
+					AI_aqu9
+					AI_aqu10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_aqu1
+					AI_aqu2
+					AI_aqu3
+					AI_aqu4
+					AI_aqu5
+					AI_aqu6
+					AI_aqu7
+					AI_aqu8
+					AI_aqu9
+					AI_aqu10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_aqu1
+					AI_aqu2
+					AI_aqu3
+					AI_aqu4
+					AI_aqu5
+					AI_aqu6
+					AI_aqu7
+					AI_aqu8
+					AI_aqu9
+					AI_aqu10
+				}
+			}
+		}
+	}
+
+	"ai_robot_tox" = {
+		default = AI_tox1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_tox1
+					AI_tox2
+					AI_tox3
+					AI_tox4
+					AI_tox5
+					AI_tox6
+					AI_tox7
+					AI_tox8
+					AI_tox9
+					AI_tox10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_tox1
+					AI_tox2
+					AI_tox3
+					AI_tox4
+					AI_tox5
+					AI_tox6
+					AI_tox7
+					AI_tox8
+					AI_tox9
+					AI_tox10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_tox1
+					AI_tox2
+					AI_tox3
+					AI_tox4
+					AI_tox5
+					AI_tox6
+					AI_tox7
+					AI_tox8
+					AI_tox9
+					AI_tox10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_tox1
+					AI_tox2
+					AI_tox3
+					AI_tox4
+					AI_tox5
+					AI_tox6
+					AI_tox7
+					AI_tox8
+					AI_tox9
+					AI_tox10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_tox1
+					AI_tox2
+					AI_tox3
+					AI_tox4
+					AI_tox5
+					AI_tox6
+					AI_tox7
+					AI_tox8
+					AI_tox9
+					AI_tox10
+				}
+			}
+		}
+	}
+
+	"ai_robot_default" = {
+		default = AI_default1
+		game_setup = {
+			add = {
+				portraits = {
+					AI_default1
+					AI_default2
+					AI_default3
+					AI_default4
+					AI_default5
+					AI_default6
+					AI_default7
+					AI_default8
+					AI_default9
+					AI_default10
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					AI_default1
+					AI_default2
+					AI_default3
+					AI_default4
+					AI_default5
+					AI_default6
+					AI_default7
+					AI_default8
+					AI_default9
+					AI_default10
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					AI_default1
+					AI_default2
+					AI_default3
+					AI_default4
+					AI_default5
+					AI_default6
+					AI_default7
+					AI_default8
+					AI_default9
+					AI_default10
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					AI_default1
+					AI_default2
+					AI_default3
+					AI_default4
+					AI_default5
+					AI_default6
+					AI_default7
+					AI_default8
+					AI_default9
+					AI_default10
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					AI_default1
+					AI_default2
+					AI_default3
+					AI_default4
+					AI_default5
+					AI_default6
+					AI_default7
+					AI_default8
+					AI_default9
+					AI_default10
+				}
+			}
+		}
+	}
+}

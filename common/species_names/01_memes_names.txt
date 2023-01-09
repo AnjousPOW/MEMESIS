@@ -1,0 +1,18 @@
+Memes = {
+	mem = {
+		name = "Мем"
+		plural = "Мемы"
+		home_planet = "Онямэ"
+		home_system = "Мемы"
+		name_list = "MEM"
+	}
+}
+MemesMecha = {
+	mem = {
+		name = "Мех"
+		plural = "Мехи"
+		home_planet = "Завод"
+		home_system = "Прайм"
+		name_list = "MEM"
+	}
+}

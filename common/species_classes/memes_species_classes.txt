@@ -1,0 +1,63 @@
+Memes = {
+	archetype = BIOLOGICAL
+	
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	gender = yes
+	portrait_modding = yes
+	leader_age_min = 10
+	leader_age_max = 16
+
+	portraits = {
+		"anime_military"
+		"anime_nazi"
+		"anime_ww_girls"
+		"rei"
+		"neko"
+		"bear"
+		"shiba"
+		"floppa"
+		"rock"
+		"gachi"
+		"necroV"
+		"necro"
+	}
+	graphical_culture = mammalian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+	resources = {}
+}
+
+MemesMecha = {
+	archetype = MACHINE
+
+	possible = { authority = { OR = {value = auth_machine_intelligence text = SPECIES_CLASS_MUST_USE_MACHINE_INTELLIGENCE } } }
+	playable = { host_has_dlc = "Synthetic Dawn Story Pack" }
+	randomized = { host_has_dlc = "Synthetic Dawn Story Pack" }
+	robotic = yes
+	gender = no
+	portrait_modding = yes
+	use_climate_preference = no
+	leader_age_min = 1
+	leader_age_max = 2
+
+	portraits = {
+		"nanites"
+		"mecha"
+		"ai_robot_hum"
+		"ai_robot_mam"
+		"ai_robot_rep"
+		"ai_robot_avi"
+		"ai_robot_art"
+		"ai_robot_mol"
+		"ai_robot_fun"
+		"ai_robot_pla"
+		"ai_robot_lith"
+		"ai_robot_nec"
+		"ai_robot_aqu"
+		"ai_robot_tox"
+		"ai_robot_default"
+	}
+	graphical_culture = mammalian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+	resources = {}
+}
